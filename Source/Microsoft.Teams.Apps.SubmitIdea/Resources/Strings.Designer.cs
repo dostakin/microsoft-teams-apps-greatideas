@@ -8,8 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Microsoft.Teams.Apps.SubmitIdea.Resources {
-    using System;
+namespace Microsoft.Teams.Apps.SubmitIdea {
     
     
     /// <summary>
